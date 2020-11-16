@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaticker&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
+[instagram](https://img.shields.io/static/v1?label=<instagram>&message=<instagram>&color=<yellow>)
