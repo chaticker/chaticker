@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chaticker)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaticker&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
