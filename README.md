@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaticker&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+***
+
 [Tech_Room 구경가기](https://github.com/chaticker/Tech_Room)
 ![KakaoTalk_20201222_220607521](https://user-images.githubusercontent.com/23302973/102891714-0b4e3e80-44a2-11eb-8f20-bf4e2cf0b961.jpg)
 
